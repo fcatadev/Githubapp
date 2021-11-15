@@ -2,8 +2,8 @@
 Python application that allows us to review a github profile of our choice.
 
 # Packages
--> requests
--> json
+- requests
+- json
 
 # Usage
 - When the program is run, it gives you two options.
